@@ -1,4 +1,4 @@
-# Ethereum Utils
+# Vapory Utils
 
 [![Join the chat at https://gitter.im/ethereum/eth-utils](https://badges.gitter.im/ethereum/eth-utils.svg)](https://gitter.im/ethereum/eth-utils)
 
